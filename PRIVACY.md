@@ -4,7 +4,7 @@
 At EnNaal, we respect your privacy and are committed to protecting your personal information. This privacy policy outlines our practices regarding the collection, use, and disclosure of your information when you use our service.
 
 ## Information We Collect  
-We may collect personally identifiable information that you provide to us, such as your name, email address, and any other information you choose to provide.
+We may collect personally identifiable information that you provide to us, such as your name, email address, and any other information you choose to provide. The app doesnot collect any information from you.
 
 ## Use of Information  
 Your information may be used to:  
