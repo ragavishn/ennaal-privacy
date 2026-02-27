@@ -1,28 +1,32 @@
-# EnNaal Privacy Policy
+Privacy Policy for EnNaal
 
-**Effective Date:** 2026-02-25 23:22:45 UTC  
-At EnNaal, we respect your privacy and are committed to protecting your personal information. This privacy policy outlines our practices regarding the collection, use, and disclosure of your information when you use our service.
+Last updated: February 25, 2026
 
-## Information We Collect  
-We may collect personally identifiable information that you provide to us, such as your name, email address, and any other information you choose to provide. Wo do not store/collect any other information from the EnNaal app.
+EnNaal ("the App") is designed to help you plan your goals, track habits, manage meals, and stay in sync with your cycle — all privately on your device.
 
-## Use of Information  
-Your information may be used to:  
-- Provide and maintain our service  
-- Notify you about changes to our service  
-- Provide customer support  
-- Gather analysis or valuable information so that we can improve our service  
-- Monitor the usage of our service  
-- Detect, prevent, and address technical issues
+1. Data Storage
+All your data — goals, habits, meal plans, journal entries, cycle information, and preferences — is stored locally on your device only. We do not collect, transmit, or store any personal data on external servers.
 
-## Disclosure of Information  
-We will not share your personal information with any third parties without your consent, except as required by law.
+2. No Account Required
+EnNaal does not require you to create an account, log in, or provide any personal information to use the app.
 
-## Security of Information  
-The security of your information is important to us. We strive to use commercially acceptable means to protect your personal information but remember that no method of transmission over the internet or method of electronic storage is 100% secure. 
+3. Calendar Access
+If you grant calendar permission, EnNaal reads your device calendar events to display them alongside your plans within the app. No calendar data is copied, stored externally, or shared with any third party.
 
-## Changes to This Privacy Policy  
-We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
+4. AI Meal Suggestions (Optional)
+If you choose to use the AI meal suggestion feature, you provide your own OpenAI API key in Settings. When used, your meal preferences and cycle phase are sent to OpenAI to generate suggestions. Your API key is stored only on your device and is never shared with us. Please refer to OpenAI's privacy policy for how they handle data.
 
-## Contact Us  
-If you have any questions about this privacy policy, please contact us.
+5. No Analytics or Tracking
+EnNaal does not use any analytics, advertising, or tracking frameworks. We do not collect usage data, device information, or any form of telemetry.
+
+6. No Third-Party Data Sharing
+We do not sell, share, or transfer any user data to third parties.
+
+7. Children's Privacy
+EnNaal is not directed at children under 13. We do not knowingly collect data from children.
+
+8. Changes to This Policy
+We may update this privacy policy from time to time. Any changes will be reflected in the "Last updated" date above.
+
+9. Contact
+If you have questions about this privacy policy, contact us at: [your email address]
